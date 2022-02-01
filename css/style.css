@@ -1,0 +1,58 @@
+.container {
+  width: 1200px;
+  padding: 0 15px;
+  margin: auto;
+}
+
+body {
+  min-height: 100vh;
+
+  display: flex;
+  flex-direction: column;
+}
+main {
+   flex-grow: 1;
+}
+
+
+/* SITE HERADER PART */
+
+#header-site {
+  
+}
+
+.site-header {
+
+}
+
+.herder-logo {
+
+}
+
+.header-nav {
+
+}
+
+.herder-nav-list {
+
+}
+
+.herder-nav-item {
+
+}
+
+/* SITE HERADER PART END */
+
+
+/* SITE MAIN PART  */
+
+
+
+
+/* SITE MAIN END PART */
+
+
+/* SITE FOOTER PART  */
+
+
+/* SITE FOOTER PART END */
